@@ -1,5 +1,5 @@
 {
-  "name": "wazaari/monolog-mysql",
+  "name": "gsu-dle/monolog-mysql",
   "description": "A handler for Monolog that sends messages to MySQL",
   "keywords": [
     "log",
@@ -13,7 +13,12 @@
   "authors": [
     {
       "name": "Daniel Herrmann",
-      "email": "daniel.herrmann1@gmail.com"
+      "email": "daniel.herrmann1@gmail.com",
+      "role": "Orginal Developer"
+    },
+    {
+      "name": "Jeb Barger",
+      "email": "jbarger@gsu.edu"
     }
   ],
   "require": {
