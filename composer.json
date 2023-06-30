@@ -22,7 +22,7 @@
     }
   ],
   "require": {
-    "php": "^7.2",
+    "php": "^8.1",
     "ext-pdo": "*",
     "ext-pdo_mysql": "*",
     "monolog/monolog": "^2.0"
